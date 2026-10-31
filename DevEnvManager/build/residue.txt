@@ -1,0 +1,7 @@
+﻿@{FullName=C:\Users\admin\.dev-env-manager\downloads}
+@{FullName=C:\Users\admin\.dev-env-manager\tools}
+@{FullName=C:\Users\admin\.dev-env-manager\downloads\node-v22.11.0-win-x64.zip}
+@{FullName=C:\Users\admin\.dev-env-manager\tools\node}
+@{FullName=C:\Users\admin\.dev-env-manager\tools\node\current}
+@{FullName=C:\Users\admin\.dev-env-manager\tools\node\versions}
+@{FullName=C:\Users\admin\.dev-env-manager\tools\node\versions\22.11.0}

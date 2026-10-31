@@ -1,0 +1,8 @@
+﻿Owner: NT AUTHORITY\SYSTEM
+AreAccessRulesProtected: True
+NT AUTHORITY\RESTRICTED | ReadKey | Allow | Inherited=False
+NT AUTHORITY\SYSTEM | FullControl | Allow | Inherited=False
+BUILTIN\Administrators | FullControl | Allow | Inherited=False
+DESKTOP-L8369KP\admin | FullControl | Allow | Inherited=False
+APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES | ReadKey | Allow | Inherited=False
+S-1-15-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681 | ReadKey | Allow | Inherited=False

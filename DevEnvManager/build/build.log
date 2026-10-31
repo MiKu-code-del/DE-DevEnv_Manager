@@ -1,0 +1,95 @@
+﻿python.exe : 779 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.9
+所在位置 行:1 字符: 30
++ ... nvManager"; & ".buildenv\Scripts\python.exe" -m PyInstaller --onefile ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (779 INFO: PyIns...b hooks: 2026.9:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+780 INFO: Python: 3.11.15
+866 INFO: Platform: Windows-10-10.0.19044-SP0
+866 INFO: Python environment: E:\项目exe\DevEnvManager\.buildenv
+869 INFO: wrote E:\项目exe\DevEnvManager\build\DevEnvManager.spec
+881 INFO: Removing temporary files and cleaning cache in C:\Users\admin\AppData\Local\pyinstaller
+982 INFO: Module search paths (PYTHONPATH):
+['E:\\项目exe\\DevEnvManager',
+ 'C:\\Users\\admin\\AppData\\Local\\Doubao\\Application\\app\\task-mode-resource\\python-packages',
+ 'C:\\Users\\admin\\AppData\\Roaming\\uv\\python\\cpython-3.11-windows-x86_64-none\\python311.zip',
+ 'C:\\Users\\admin\\AppData\\Roaming\\uv\\python\\cpython-3.11-windows-x86_64-none\\DLLs',
+ 'C:\\Users\\admin\\AppData\\Roaming\\uv\\python\\cpython-3.11-windows-x86_64-none\\Lib',
+ 'C:\\Users\\admin\\AppData\\Roaming\\uv\\python\\cpython-3.11-windows-x86_64-none',
+ 'E:\\项目exe\\DevEnvManager\\.buildenv',
+ 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-packages',
+ 'E:\\项目exe\\DevEnvManager']
+2442 INFO: checking Analysis
+2443 INFO: Building Analysis because Analysis-00.toc is non existent
+2443 INFO: Looking for Python shared library...
+2443 INFO: Using Python shared library: C:\Users\admin\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\pytho
+n311.dll
+2444 INFO: Running Analysis Analysis-00.toc
+2444 INFO: Target bytecode optimization level: 0
+2444 INFO: Initializing module dependency graph...
+2450 INFO: Initializing module graph hook caches...
+2502 INFO: Analyzing modules for base_library.zip ...
+6964 INFO: Processing standard module hook 'hook-heapq.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-package
+s\\PyInstaller\\hooks'
+7244 INFO: Processing standard module hook 'hook-encodings.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-pac
+kages\\PyInstaller\\hooks'
+14267 INFO: Processing standard module hook 'hook-math.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-package
+s\\PyInstaller\\hooks'
+14514 INFO: Processing standard module hook 'hook-pickle.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-packa
+ges\\PyInstaller\\hooks'
+20462 INFO: Caching module dependency graph...
+20557 INFO: Analyzing E:\项目exe\DevEnvManager\main.py
+20575 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site
+-packages\\PyInstaller\\hooks\\pre_find_module_path'
+20578 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+22441 INFO: Processing standard module hook 'hook-_tkinter.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-pac
+kages\\PyInstaller\\hooks'
+22965 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\L
+ib\\site-packages\\PyInstaller\\hooks'
+23726 INFO: Processing standard module hook 'hook-xml.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-packages
+\\PyInstaller\\hooks'
+24493 INFO: Processing standard module hook 'hook-_ctypes.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-pack
+ages\\PyInstaller\\hooks'
+25640 INFO: Processing module hooks (post-graph stage)...
+25780 INFO: Processing standard module hook 'hook-_tkinter.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-pac
+kages\\PyInstaller\\hooks'
+25806 INFO: Performing binary vs. data reclassification (923 entries)
+27745 INFO: Looking for ctypes DLLs
+27821 INFO: Analyzing run-time hooks ...
+27823 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-packages\
+\PyInstaller\\hooks\\rthooks'
+27830 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-packages\
+\PyInstaller\\hooks\\rthooks'
+27842 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-p
+ackages\\PyInstaller\\hooks\\rthooks'
+27849 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'E:\\项目exe\\DevEnvManager\\.buildenv\\Lib\\site-packages
+\\PyInstaller\\hooks\\rthooks'
+27993 INFO: Creating base_library.zip...
+28111 INFO: Looking for dynamic libraries
+29156 INFO: Extra DLL search directories (AddDllDirectory): []
+29156 INFO: Extra DLL search directories (PATH): []
+33287 INFO: Warnings written to E:\项目exe\DevEnvManager\build\pyi\DevEnvManager\warn-DevEnvManager.txt
+33347 INFO: Graph cross-reference written to E:\项目exe\DevEnvManager\build\pyi\DevEnvManager\xref-DevEnvManager.html
+33461 INFO: checking PYZ
+33462 INFO: Building PYZ because PYZ-00.toc is non existent
+33462 INFO: Building PYZ (ZlibArchive) E:\项目exe\DevEnvManager\build\pyi\DevEnvManager\PYZ-00.pyz
+33931 INFO: Building PYZ (ZlibArchive) E:\项目exe\DevEnvManager\build\pyi\DevEnvManager\PYZ-00.pyz completed successfully
+.
+33986 INFO: checking PKG
+33986 INFO: Building PKG because PKG-00.toc is non existent
+33987 INFO: Building PKG (CArchive) DevEnvManager.pkg
+47087 INFO: Building PKG (CArchive) DevEnvManager.pkg completed successfully.
+47140 INFO: Bootloader E:\项目exe\DevEnvManager\.buildenv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\ru
+nw.exe
+47140 INFO: checking EXE
+47140 INFO: Building EXE because EXE-00.toc is non existent
+47140 INFO: Building EXE from EXE-00.toc
+47147 INFO: Copying bootloader EXE to E:\项目exe\DevEnvManager\build\dist\DevEnvManager.exe
+47188 INFO: Copying icon to EXE
+47211 INFO: Copying 0 resources to EXE
+47211 INFO: Embedding manifest in EXE
+47240 INFO: Appending PKG archive to EXE
+47690 INFO: Fixing EXE headers
+48766 INFO: Building EXE from EXE-00.toc completed successfully.
+48822 INFO: Build complete! The results are available in: E:\项目exe\DevEnvManager\build\dist
